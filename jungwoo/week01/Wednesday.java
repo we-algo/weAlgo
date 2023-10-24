@@ -50,8 +50,6 @@ class Wednesday {
         for (int i = 0; i < count; i++) {
             speeds[i] = in.nextInt();
         }
-        for (int i : t.solution(progresses, speeds)) {
-            System.out.print(i + " ");
-        }
+        System.out.println(Arrays.toString(t.solution(progresses, speeds)));
     }
 }
