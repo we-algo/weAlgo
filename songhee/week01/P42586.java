@@ -14,7 +14,7 @@ class Solution {
         }
 
         int count = 1;
-        int index = 0;
+        int index = 0; //비교할 값의 인덱스
         List<Integer> answer = new ArrayList<>();
         for(int i=1;i<list.size();i++){
             if(list.get(index)>=list.get(i)){
