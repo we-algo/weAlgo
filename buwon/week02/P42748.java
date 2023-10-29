@@ -9,19 +9,14 @@ class Solution {
 
         for (int i = 0; i < commands.length; i++){
             int[] inArr = commands[i];
-            int[] start = new int[commands[i].length];
             List<Integer> arrList = new ArrayList<>();
 
-            for (int j = 0; j < inArr.length; j++){
-                start[j] += inArr[j];
-            }
-
-            for (int j = start[0] - 1; j <= start[1] - 1; j++){
+            for (int j = inArr[0] - 1; j <= inArr[1] - 1; j++){
                 arrList.add(array[j]);
             }
 
             Collections.sort(arrList);
-            answer[i] += arrList.get(start[2] - 1);
+            answer[i] += arrList.get(inArr[2] - 1);
         }
 
         return answer;
