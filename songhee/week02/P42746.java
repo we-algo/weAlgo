@@ -9,7 +9,6 @@ class Solution {
         boolean visit[] = new boolean[numbers.length];
         String answer = "";
         int finalNum = 0;
-        int maxNum = 0;
 
         for(int i=1;i<=numbers.length;i++){
             find(0, i, 0, visit, numbers.length, numbers);
@@ -17,6 +16,7 @@ class Solution {
 
         return finalS;
     }
+    
     public static void find(int index, int count, int nowCount, boolean []visit, int numbersLen, int[] numbers){
         if(count == nowCount){
             int finalLen = 0;
