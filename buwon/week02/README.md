@@ -4,3 +4,7 @@
 
 - 1일 수요일 </br>
 프로그래머스 2레벨 (52%) https://school.programmers.co.kr/learn/courses/30/lessons/42746
+
+- 3일 금요일 </br>
+프로그래머스 2레벨 (64%) https://school.programmers.co.kr/learn/courses/30/lessons/42747
+
