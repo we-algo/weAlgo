@@ -1,5 +1,4 @@
 import java.io.*;
-
 public class Main {
     static final String STRING_HYPHEN = "-";
     static StringBuilder cantorStrings;
