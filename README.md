@@ -112,8 +112,8 @@ git commit -m "Hello World / 1분"
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>BOJ</td><td>14916</td><td>프로세스</td><td>Level 2</td>
-        <td><a href="https://www.acmicpc.net/problem/14916">바로가기</a></td>
+        <td>BOJ</td><td>42587</td><td>프로세스</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">바로가기</a></td>
     </tr>
     <!-- 23.07.17 문제 -->
     <tr style="text-align: center">
