@@ -103,7 +103,7 @@ git commit -m "Hello World / 1분"
 <table>
     <!-- 23.10.23 문제 -->
     <tr style="text-align: center">
-        <td rowspan="3">1주차</td>
+        <td rowspan="3">1주차<br/>(Stack, Queue)</td>
         <td>PGS</td><td>12909</td><td>올바른 괄호</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">바로가기</a></td>
     </tr>
@@ -119,7 +119,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 23.10.30 문제 -->
     <tr style="text-align: center">
-	<td rowspan="3">2주차(정렬)</td>
+	<td rowspan="3">2주차<br/>(정렬)</td>
         <td>PGS</td><td>42748</td><td>K번째 수</td><td>Level 1</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">바로가기</a></td>
     </tr>
@@ -135,7 +135,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 23.11.6 문제 -->	
     <tr style="text-align: center">
-	<td rowspan="3">3주차(DFS/BFS)</td>
+	<td rowspan="3">3주차<br/>(DFS/BFS)</td>
         <td>PGS</td><td>43165</td><td>타겟 넘버</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">바로가기</a></td>
     </tr>
@@ -151,7 +151,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 23.11.13 문제 -->
      <tr style="text-align: center">
-	<td rowspan="3">4주차(DFS/BFS)</td>
+	<td rowspan="3">4주차<br/>(DFS/BFS)</td>
         <td>BOJ</td><td>11123</td><td>양 한마리... 양 두마리...</td><td>실버2</td>
         <td><a href="https://www.acmicpc.net/problem/11123">바로가기</a></td>
     </tr>
@@ -167,7 +167,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 23.11.20 문제 -->
     <tr style="text-align: center">
-	<td rowspan="3">5주차(그리디)</td>
+	<td rowspan="3">5주차<br/>(그리디)</td>
         <td>BOJ</td><td>18310</td><td>안테나</td><td>실버3</td>
         <td><a href="https://www.acmicpc.net/problem/18310">바로가기</a></td>
     </tr>
@@ -183,7 +183,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 23.11.27 문제 -->
     <tr style="text-align: center">
-	<td rowspan="3">6주차(DFS/BFS)</td>
+	<td rowspan="3">6주차<br/>(DFS/BFS)</td>
         <td>BOJ</td><td>2251</td><td>물통</td><td>골드5</td>
         <td><a href="https://www.acmicpc.net/problem/2251">바로가기</a></td>
     </tr>
@@ -199,7 +199,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 23.12.04 문제 -->
     <tr style="text-align: center">
-	<td rowspan="3">7주차(이분탐색)</td>
+	<td rowspan="3">7주차<br/>(이분탐색)</td>
         <td>BOJ</td><td>16401</td><td>과자 나눠주</td><td>실버2</td>
         <td><a href="https://www.acmicpc.net/problem/16401">바로가기</a></td>
     </tr>
@@ -215,7 +215,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 23.12.11 문제 -->
     <tr style="text-align: center">
-        <td rowspan="3">8주차(완전탐색-브루트포스)</td>
+        <td rowspan="3">8주차<br/>(완전탐색-브루트포스)</td>
         <td>BOJ</td><td>15683</td><td>감시</td><td>골드4</td>
         <td><a href="https://www.acmicpc.net/problem/15683">바로가기</a></td>
     </tr>
