@@ -101,316 +101,131 @@ git commit -m "Hello World / 1분"
 
 # ✅ 문제
 <table>
-    <!-- 23.07.10 문제 -->
+    <!-- 23.10.23 문제 -->
     <tr style="text-align: center">
-        <td rowspan="3">1주차(Stack, Queue)</td>
+        <td rowspan="3">1주차</td>
         <td>PGS</td><td>12909</td><td>올바른 괄호</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">바로가기</a></td>
     </tr>
+    <!-- 23.10.25 문제 -->
     <tr style="text-align: center">
         <td>PGS</td><td>42586</td><td>기능개발</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586">바로가기</a></td>
     </tr>
+    <!-- 23.10.27 문제 -->
     <tr style="text-align: center">
-        <td>BOJ</td><td>42587</td><td>프로세스</td><td>Level 2</td>
+        <td>PGS</td><td>42587</td><td>프로세스</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">바로가기</a></td>
     </tr>
-    <!-- 23.07.17 문제 -->
+    <!-- 23.10.30 문제 -->
     <tr style="text-align: center">
-	<td rowspan="3">2주차</td>
-        <td>BOJ</td><td>1414</td><td>불우이웃돕기</td><td>골드3</td>
-        <td><a href="https://www.acmicpc.net/problem/1414">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td><td>2828</td><td>사과 담기 게임</td><td>실버5</td>
-        <td><a href="https://www.acmicpc.net/problem/2828">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td><td>2217</td><td>로프</td><td>실버4</td>
-        <td><a href="https://www.acmicpc.net/problem/2217">바로가기</a></td>
-    </tr>
-    <!-- 23.07.27 문제 -->	
-    <tr style="text-align: center">
-	<td rowspan="7">3주차</td>
-        <td>PGS</td><td>없음</td><td>폰켓몬</td><td>Level 1</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>같은 숫자는 싫어</td><td>Level 1</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>더 맵게</td><td>Level 2</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42626">바로가기</a></td>
-    </tr>
-     <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>K번째수</td><td>Level 1</td>
+	<td rowspan="3">2주차(정렬)</td>
+        <td>PGS</td><td>42748</td><td>K번째 수</td><td>Level 1</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">바로가기</a></td>
     </tr>
+    <!-- 23.11.1 문제 -->
     <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>최소직사각형</td><td>Level 1</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491">바로가기</a></td>
+        <td>PGS</td><td>42746</td><td>가장 큰 수</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746">바로가기</a></td>
     </tr>
+    <!-- 23.11.3 문제 -->
     <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>체육복</td><td>Level 1</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42862">바로가기</a></td>
+        <td>PGS</td><td>42747</td><td>H-Index</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747">바로가기</a></td>
     </tr>
+    <!-- 23.11.6 문제 -->	
     <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>타겟 넘버</td><td>Level 2</td>
+	<td rowspan="3">3주차(DFS/BFS)</td>
+        <td>PGS</td><td>43165</td><td>타겟 넘버</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">바로가기</a></td>
     </tr>
-     <!-- 23.08.02 문제 -->	
+    <!-- 23.11.8 문제 -->
     <tr style="text-align: center">
-	<td rowspan="4">4주차</td>
-        <td>PGS</td><td>없음</td><td>완주하지 못한 선수</td><td>Level 1</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=java">바로가기</a></td>
+        <td>BOJ</td><td>4779</td><td>칸토어 집합</td><td>실버3</td>
+        <td><a href="https://www.acmicpc.net/problem/4779">바로가기</a></td>
     </tr>
+    <!-- 23.11.10 문제 -->
     <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>가장 큰 수</td><td>Level 2</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=java">바로가기</a></td>
+        <td>PGS</td><td>12946</td><td>하노이의 탑</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12946">바로가기</a></td>
     </tr>
-    <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>모의고사</td><td>Level 1</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=java">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>게임 맵 최단거리</td><td>Level 2</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=java">바로가기</a></td>
-    </tr>
-    <!-- 23.08.07 문제 -->	
-    <tr style="text-align: center">
-	<td rowspan="4">5주차</td>
-        <td>PGS</td><td>없음</td><td>전화번호 목록</td><td>Level 2</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577?language=java">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>H-Index</td><td>Level 2</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747?language=java">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>소수찾기</td><td>Level 2</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839?language=java">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td><td>1697</td><td>숨바꼭질</td><td>실버 1</td>
-        <td><a href="https://www.acmicpc.net/problem/1697">바로가기</a></td>
-    </tr>
-    <!-- 23.08.16 문제 -->
-    <tr style="text-align: center">
-        <td rowspan="3">6주차</td>
-        <td>PGS</td><td>없음</td><td>기능개발</td><td>Level 2</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=java">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>카펫</td><td>Level 2</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=java">바로가기</a></td>
-    </tr>
-	<tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>조이스틱</td><td>Level 2</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42860?language=java">바로가기</a></td>
-    </tr>
-    <!-- 23.08.24 문제 -->
-    <tr style="text-align: center">
-        <td rowspan="2">7주차</td>
-        <td>PGS</td>
-	<td>없음</td>
- 	<td>베스트앨범</td>
-  	<td>Level 3</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579?language=java">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td>
-	<td>3190</td>
- 	<td>뱀</td>
-  	<td>골드 4</td>
-        <td><a href="https://www.acmicpc.net/problem/3190">바로가기</a></td>
-    </tr>
-    <!-- 23.08.30 문제 -->
-    <tr style="text-align: center">
-	<td >8주차</td>
-        <td>BOJ</td><td>2133</td><td>타일 채우기</td><td>골드 4</td>
-        <td><a href="https://www.acmicpc.net/problem/2133">바로가기</a></td>
-    </tr>    
-    <!-- 23.09.26 문제 -->
-    <tr style="text-align: center">
-        <td rowspan="3">9주차</td>
-        <td>BOJ</td>
-	<td>21610</td>
-	<td>마법사 상어와 비바라기</td>
-	<td>골드 5</td>
-        <td><a href="https://www.acmicpc.net/problem/21610">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>PGS</td>
-	<td>없음</td>
-	<td>N으로 표현</td>
-	<td>Level 3</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42895">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>PGS</td>
-	<td>없음</td>
-	<td>디스크 컨트롤러</td>
-	<td>Level 3</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627">바로가기</a></td>
-    </tr>
-    <!-- 23.10.13 문제 -->
-    <tr style="text-align: center">
-        <td rowspan="3">10주차</td>
-        <td>BOJ</td>
-	<td>14503</td>
-	<td>로봇 청소기</td>
-	<td>골드 5</td>
-        <td><a href="https://www.acmicpc.net/problem/14503">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td>
-	<td>1918</td>
-	<td>후위 표기식</td>
-	<td>골드 2</td>
-        <td><a href="https://www.acmicpc.net/problem/1918">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td>
-	<td>1149</td>
-	<td>RGB거리</td>
-	<td>실버 1</td>
-        <td><a href="https://www.acmicpc.net/problem/1149">바로가기</a></td>
-    </tr>
-    <!-- 23.10.18 문제 -->
-    <tr style="text-align: center">
-        <td rowspan="4">11주차</td>
-        <td>BOJ</td>
-	<td>20056</td>
-	<td>마법사 상어와 파이어볼</td>
-	<td>골드 4</td>
-        <td><a href="https://www.acmicpc.net/problem/20056">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td>
-	<td>16236</td>
-	<td>아기 상어</td>
-	<td>골드 3</td>
-        <td><a href="https://www.acmicpc.net/problem/16236">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td>
-	<td>17298</td>
-	<td>오큰수</td>
-	<td>골드 4</td>
-        <td><a href="https://www.acmicpc.net/problem/17298">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td>
-	<td>11501</td>
-	<td>주식</td>
-	<td>실버 2</td>
-        <td><a href="https://www.acmicpc.net/problem/11501">바로가기</a></td>
-    </tr>
-    <!-- 23.10.25 문제 -->
-    <tr style="text-align: center">
-        <td rowspan="3">12주차</td>
-        <td>BOJ</td>
-	<td>10942</td>
-	<td>팰린드롬?</td>
-	<td>골드 4</td>
-        <td><a href="https://www.acmicpc.net/problem/10942">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td>
-	<td>19583</td>
-	<td>싸이버개강총회</td>
-	<td>실버 2</td>
-        <td><a href="https://www.acmicpc.net/problem/19583">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td>
-	<td>17140</td>
-	<td>이차원 배열과 연산</td>
-	<td>골드 4</td>
-        <td><a href="https://www.acmicpc.net/problem/17140">바로가기</a></td>
-    </tr>
-    <!-- 23.11.01 문제 -->
-    <tr style="text-align: center">
-        <td rowspan="3">13주차</td>
-        <td>BOJ</td>
-	<td>12100</td>
-	<td>2048 (Easy)</td>
-	<td>골드 2</td>
-        <td><a href="https://www.acmicpc.net/problem/12100">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td>
-	<td>1941</td>
-	<td>소문난 칠공주</td>
-	<td>골드 3</td>
-        <td><a href="https://www.acmicpc.net/problem/1941">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td>
-	<td>9466</td>
-	<td>텀 프로젝트</td>
-	<td>골드 3</td></td>
-        <td><a href="https://www.acmicpc.net/problem/9466">바로가기</a></td>
-    </tr>
-    <!-- 23.11.08 문제 -->
-    <tr style="text-align: center">
-        <td rowspan="3">14주차</td>
-        <td>BOJ</td>
-	<td>14500</td>
-	<td>테트로미노</td>
-	<td>골드 4</td>
-        <td><a href="https://www.acmicpc.net/problem/14500">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td>
-	<td>2531</td>
-	<td>회전 초밥</td>
-	<td>실버 1</td>
-        <td><a href="https://www.acmicpc.net/problem/2531">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td>
-	<td>1167</td>
-	<td>트리의 지름</td>
-	<td>골드 2</td></td>
-        <td><a href="https://www.acmicpc.net/problem/1167">바로가기</a></td>
+    <!-- 23.11.13 문제 -->
+     <tr style="text-align: center">
+	<td rowspan="3">4주차(DFS/BFS)</td>
+        <td>BOJ</td><td>11123</td><td>양 한마리... 양 두마리...</td><td>실버2</td>
+        <td><a href="https://www.acmicpc.net/problem/11123">바로가기</a></td>
     </tr>
     <!-- 23.11.15 문제 -->
     <tr style="text-align: center">
-        <td rowspan="5">15주차</td>
-        <td>PGS</td>
-	<td>없음</td>
-	<td>성격 유형 검사하기</td>
-	<td>Level 1</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118666">바로가기</a></td>
+        <td>BOJ</td><td>18352</td><td>특정 거리의 도시 찾기</td><td>실버2</td>
+        <td><a href="https://www.acmicpc.net/problem/18352">바로가기</a></td>
     </tr>
+    <!-- 23.11.17 문제 -->
     <tr style="text-align: center">
-        <td>PGS</td>
-	<td>없음</td>
-	<td>두 큐 합 같게 만들기</td>
-	<td>Level 2</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667">바로가기</a></td>
+        <td>BOJ</td><td>2667</td><td>단지번호붙이기</td><td>실버1</td>
+        <td><a href="https://www.acmicpc.net/problem/2667">바로가기</a></td>
     </tr>
+    <!-- 23.11.20 문제 -->
     <tr style="text-align: center">
-        <td>PGS</td>
-	<td>없음</td>
-	<td>코딩 테스트 공부하기</td>
-	<td>Level 3</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118668">바로가기</a></td>
+	<td rowspan="3">5주차(그리디)</td>
+        <td>BOJ</td><td>18310</td><td>안테나</td><td>실버3</td>
+        <td><a href="https://www.acmicpc.net/problem/18310">바로가기</a></td>
     </tr>
-	<tr style="text-align: center">
-        <td>PGS</td>
-	<td>없음</td>
-	<td>등산코스 정하기</td>
-	<td>Level 4</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118669">바로가기</a></td>
+    <!-- 23.11.22 문제 -->	
+    <tr style="text-align: center">
+        <td>BOJ</td><td>11497</td><td>통나무 건너뛰기</td><td>실버1</td>
+        <td><a href="https://www.acmicpc.net/problem/11497">바로가기</a></td>
     </tr>
-	<tr style="text-align: center">
-        <td>PGS</td>
-	<td>없음</td>
-	<td>행렬과 연산</td>
-	<td>Level 5</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118670">바로가기</a></td>
+    <!-- 23.11.24 문제 -->
+    <tr style="text-align: center">
+        <td>BOJ</td><td>13164</td><td>행복 유치원</td><td>골드5</td>
+        <td><a href="https://www.acmicpc.net/problem/13164">바로가기</a></td>
     </tr>
-</table>
+    <!-- 23.11.27 문제 -->
+    <tr style="text-align: center">
+	<td rowspan="3">6주차(DFS/BFS)</td>
+        <td>BOJ</td><td>2251</td><td>물통</td><td>골드5</td>
+        <td><a href="https://www.acmicpc.net/problem/2251">바로가기</a></td>
+    </tr>
+    <!-- 23.11.29 문제 -->
+    <tr style="text-align: center">
+        <td>BOJ</td><td>17265</td><td>나의 인생에는 수학과 함</td><td>골드5</td>
+        <td><a href="https://www.acmicpc.net/problem/17265">바로가기</a></td>
+    </tr>
+    <!-- 23.12.01 문제 -->	
+    <tr style="text-align: center">
+        <td>BOJ</td><td>1405</td><td>미친로봇</td><td>골드4</td>
+        <td><a href="https://www.acmicpc.net/problem/1405">바로가기</a></td>
+    </tr>
+    <!-- 23.12.04 문제 -->
+    <tr style="text-align: center">
+	<td rowspan="3">7주차(이분탐색)</td>
+        <td>BOJ</td><td>16401</td><td>과자 나눠주</td><td>실버2</td>
+        <td><a href="https://www.acmicpc.net/problem/16401">바로가기</a></td>
+    </tr>
+    <!-- 23.12.06 문제 -->
+    <tr style="text-align: center">
+        <td>BOJ</td><td>13397</td><td>구간 나누기2</td><td>골드4</td>
+        <td><a href="https://www.acmicpc.net/problem/13397">바로가기</a></td>
+    </tr>
+    <!-- 23.12.08 문제 -->
+    <tr style="text-align: center">
+        <td>BOJ</td><td>2866</td><td>문자열 잘라내</td><td>골드5</td>
+        <td><a href="https://www.acmicpc.net/problem/2866">바로가기</a></td>
+    </tr>
+    <!-- 23.12.11 문제 -->
+    <tr style="text-align: center">
+        <td rowspan="3">8주차(완전탐색-브루트포스)</td>
+        <td>BOJ</td><td>15683</td><td>감시</td><td>골드4</td>
+        <td><a href="https://www.acmicpc.net/problem/15683">바로가기</a></td>
+    </tr>
+    <!-- 23.12.13 문제 -->
+    <tr style="text-align: center">
+        <td>BOJ</td><td>18428</td><td>감시 피하기</td><td>골드5</td>
+        <td><a href="https://www.acmicpc.net/problem/18428">바로가기</a></td>
+    </tr>
+    <!-- 23.12.15 문제 -->
+    <tr style="text-align: center">
+        <td>BOJ</td><td>16987</td><td>계란으로 계란치기</td><td>골드5</td>
+        <td><a href="https://www.acmicpc.net/problem/16987">바로가기</a></td>
+    </tr>
