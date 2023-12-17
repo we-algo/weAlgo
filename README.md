@@ -229,3 +229,9 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>16987</td><td>계란으로 계란치기</td><td>골드5</td>
         <td><a href="https://www.acmicpc.net/problem/16987">바로가기</a></td>
     </tr>
+    <!-- 23.12.18 문제 -->
+    <tr style="text-align: center">
+	<td rowspan="3">9주차<br/>(투 포인터)</td>
+        <td>BOJ</td><td>13144</td><td>List of Unique Numbers</td><td>골드4</td>
+        <td><a href="https://www.acmicpc.net/problem/13144">바로가기</a></td>
+    </tr>
