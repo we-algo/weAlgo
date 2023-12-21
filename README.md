@@ -240,3 +240,8 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>25916</td><td>싫은데요</td><td>실버1</td>
         <td><a href="https://www.acmicpc.net/problem/25916">바로가기</a></td>
     </tr>
+    <!-- 23.12.22 문제 -->
+    <tr style="text-align: center">
+        <td>BOJ</td><td>9024</td><td>두 수의 합</td><td>골드5</td>
+        <td><a href="https://www.acmicpc.net/problem/9024">바로가기</a></td>
+    </tr>
