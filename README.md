@@ -189,7 +189,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 23.11.29 문제 -->
     <tr style="text-align: center">
-        <td>BOJ</td><td>17265</td><td>나의 인생에는 수학과 함</td><td>골드5</td>
+        <td>BOJ</td><td>17265</td><td>나의 인생에는 수학과 함께</td><td>골드5</td>
         <td><a href="https://www.acmicpc.net/problem/17265">바로가기</a></td>
     </tr>
     <!-- 23.12.01 문제 -->	
@@ -200,7 +200,7 @@ git commit -m "Hello World / 1분"
     <!-- 23.12.04 문제 -->
     <tr style="text-align: center">
 	<td rowspan="3">7주차<br/>(이분탐색)</td>
-        <td>BOJ</td><td>16401</td><td>과자 나눠주</td><td>실버2</td>
+        <td>BOJ</td><td>16401</td><td>과자 나눠주기</td><td>실버2</td>
         <td><a href="https://www.acmicpc.net/problem/16401">바로가기</a></td>
     </tr>
     <!-- 23.12.06 문제 -->
@@ -210,7 +210,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 23.12.08 문제 -->
     <tr style="text-align: center">
-        <td>BOJ</td><td>2866</td><td>문자열 잘라내</td><td>골드5</td>
+        <td>BOJ</td><td>2866</td><td>문자열 잘라내기</td><td>골드5</td>
         <td><a href="https://www.acmicpc.net/problem/2866">바로가기</a></td>
     </tr>
     <!-- 23.12.11 문제 -->
