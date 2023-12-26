@@ -245,3 +245,9 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>9024</td><td>두 수의 합</td><td>골드5</td>
         <td><a href="https://www.acmicpc.net/problem/9024">바로가기</a></td>
     </tr>
+    <!-- 23.12.27 문제 -->
+    <tr style="text-align: center">
+	<td rowspan="3">10주차<br/>(완전탐색)</td>
+	<td>PGS</td><td>42842</td><td>카펫</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842">바로가기</a></td>
+    </tr>
