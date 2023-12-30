@@ -256,3 +256,9 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>60057</td><td>문자열 압축</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60057">바로가기</a></td>
     </tr>
+     <!-- 24.1.3 문제 -->
+    <tr style="text-align: center">
+	<td rowspan="3">11주차<br/>(랜덤)</td>
+	<td>PGS</td><td>12914</td><td>멀리 뛰기</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12914#">바로가기</a></td>
+    </tr>
