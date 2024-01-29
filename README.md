@@ -260,5 +260,69 @@ git commit -m "Hello World / 1분"
     <tr style="text-align: center">
 	<td rowspan="2">11주차<br/>(랜덤)</td>
 	<td>PGS</td><td>12914</td><td>멀리 뛰기</td><td>Level 2</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12914#">바로가기</a></td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12914">바로가기</a></td>
+    </tr>
+    <!-- 24.1.5 문제 -->
+    <tr style="text-align: center">
+	<td>PGS</td><td>17677</td><td>[1차] 뉴스 클러스터링</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17677">바로가기</a></td>
+    </tr>
+    <!-- 24.1.8 문제 -->
+    <tr style="text-align: center">
+	<td rowspan="3">12주차<br/>구</td>
+	<td>PGS</td><td>92334</td><td>신고 결과 받기</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92334">바로가기</a></td>
+    </tr>
+    <!-- 24.1.10 문제 -->
+    <tr style="text-align: center">
+	<td>PGS</td><td>92341</td><td>주차 요금 계산</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92341">바로가기</a></td>
+    </tr>
+    <!-- 24.1.12 문제 -->
+    <tr style="text-align: center">
+	<td>PGS</td><td>17686</td><td>[3차] 파일명 정렬</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686">바로가기</a></td>
+    </tr>
+    <!-- 24.1.15 문제 -->
+    <tr style="text-align: center">
+	<td rowspan="3">13주차<br/>비트마스킹</td>
+	<td>PGS</td><td>2961</td><td>[3차] 파일명 정렬</td><td>Level 2</td>
+        <td><a href="https://www.acmicpc.net/problem/2961">바로가기</a></td>
+    </tr>
+    <!-- 24.1.17 문제 -->
+    <tr style="text-align: center">
+	<td>BOJ</td><td>14569</td><td>시간표 짜기</td><td>실버 2</td>
+        <td><a href="https://www.acmicpc.net/problem/14569">바로가기</a></td>
+    </tr>
+    <!-- 24.1.19 문제 -->
+    <tr style="text-align: center">
+	<td>BOJ</td><td>1094</td><td>막대기</td><td>실버 5</td>
+        <td><a href="https://www.acmicpc.net/problem/1094">바로가기</a></td>
+    </tr>
+    <!-- 24.1.22 문제 -->
+    <tr style="text-align: center">
+	<td rowspan="3">14주차<br/>브르투스포</td>
+	<td>BOJ</td><td>1535</td><td>안</td><td>실버 2</td>
+        <td><a href="https://www.acmicpc.net/problem/1535">바로가기</a></td>
+    </tr>
+    <!-- 24.1.24 문제 -->
+    <tr style="text-align: center">
+	<td>BOJ</td><td>2503</td><td>숫자야구</td><td>실버 3</td>
+        <td><a href="https://www.acmicpc.net/problem/2503">바로가기</a></td>
+    </tr>
+    <!-- 24.1.26 문제 -->
+    <tr style="text-align: center">
+	<td>BOJ</td><td>2529</td><td>부등</td><td>실버 1</td>
+        <td><a href="https://www.acmicpc.net/problem/2529">바로가기</a></td>
+    </tr>
+    <!-- 24.1.29 문제 -->
+    <tr style="text-align: center">
+	<td rowspan="3">15주차<br/>구현</td>
+	<td>PGS</td><td>154539</td><td>뒤에 있는 큰 수 찾기</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/154539">바로가기</a></td>
+    </tr>
+     <!-- 24.1.31 문제 -->
+    <tr style="text-align: center">
+	<td>PGS</td><td>42860</td><td>조이스틱</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42860">바로가기</a></td>
     </tr>
