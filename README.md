@@ -269,7 +269,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 24.1.8 문제 -->
     <tr style="text-align: center">
-	<td rowspan="3">12주차<br/>구</td>
+	<td rowspan="3">12주차<br/>구현</td>
 	<td>PGS</td><td>92334</td><td>신고 결과 받기</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92334">바로가기</a></td>
     </tr>
@@ -301,7 +301,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 24.1.22 문제 -->
     <tr style="text-align: center">
-	<td rowspan="3">14주차<br/>브르투스포</td>
+	<td rowspan="3">14주차<br/>브르투스포스</td>
 	<td>BOJ</td><td>1535</td><td>안</td><td>실버 2</td>
         <td><a href="https://www.acmicpc.net/problem/1535">바로가기</a></td>
     </tr>
