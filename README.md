@@ -302,7 +302,7 @@ git commit -m "Hello World / 1분"
     <!-- 24.1.22 문제 -->
     <tr style="text-align: center">
 	<td rowspan="3">14주차<br/>브르투스포스</td>
-	<td>BOJ</td><td>1535</td><td>안</td><td>실버 2</td>
+	<td>BOJ</td><td>1535</td><td>안녕</td><td>실버 2</td>
         <td><a href="https://www.acmicpc.net/problem/1535">바로가기</a></td>
     </tr>
     <!-- 24.1.24 문제 -->
@@ -312,7 +312,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 24.1.26 문제 -->
     <tr style="text-align: center">
-	<td>BOJ</td><td>2529</td><td>부등</td><td>실버 1</td>
+	<td>BOJ</td><td>2529</td><td>부등호</td><td>실버 1</td>
         <td><a href="https://www.acmicpc.net/problem/2529">바로가기</a></td>
     </tr>
     <!-- 24.1.29 문제 -->
